@@ -1,11 +1,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
 
-body{
+body {
     background-color:rgba(218, 218, 231, 0.459) ;
 }
 
-h1{
+h1 {
     color: rgb(179, 179, 231);
     font-family: "Bitter", serif;
     text-align: center;
